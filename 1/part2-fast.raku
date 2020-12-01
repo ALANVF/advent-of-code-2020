@@ -1,0 +1,1 @@
+say [*] "input.txt".IO.words.combinations(3).first(*.sum==2020)

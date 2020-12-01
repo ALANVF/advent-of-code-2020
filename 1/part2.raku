@@ -1,0 +1,1 @@
+say [*] ([X] "input.txt".IO.words xx 3).first(*.sum==2020)
