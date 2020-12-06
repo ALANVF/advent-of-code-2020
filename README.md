@@ -4,3 +4,6 @@ Day 1:
 Day 2:
 - Raku
 - J
+
+Day 3:
+- Raku

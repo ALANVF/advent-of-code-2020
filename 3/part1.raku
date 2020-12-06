@@ -1,0 +1,1 @@
+say +"input.txt".IO.lines.map(*.comb.map(*eq"#")).pairs.grep({.value[(.key*3)mod 31]});
