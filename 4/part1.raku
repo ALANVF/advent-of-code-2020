@@ -1,0 +1,1 @@
+say +"input.txt".IO.split("\n\n").grep(*.comb(/<(\w+)>\:/) (>=)<byr iyr eyr hgt hcl ecl pid>)

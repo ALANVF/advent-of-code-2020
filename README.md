@@ -7,3 +7,6 @@ Day 2:
 
 Day 3:
 - Raku
+
+Day 4:
+- Raku
